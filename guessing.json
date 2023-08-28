@@ -1,0 +1,29 @@
+[
+    {
+        "args": [],
+        "num": 3,
+        "tries": 5,
+        "num_input": 3,
+        "result": true
+    },
+    {
+        "args": [],
+        "num": 3,
+        "tries": 5,
+        "num_input": 2,
+        "result": false
+    },
+    {
+        "args": [],
+        "num": 3,
+        "tries": 5,
+        "num_input": 6,
+        "result": false
+    },
+    {
+        "args": [],
+        "num": 3,
+        "num_input": 4,
+        "result": false
+    }
+]
